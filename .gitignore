@@ -20,3 +20,5 @@ terraform.rc
 
 
 .src/node_modules/
+
+.iac/kube_config.yaml
